@@ -1,7 +1,7 @@
 document.querySelector(".btn-primary").addEventListener("click", function (event) {
 
     const firstName = document.querySelector("");
-
+c
 });
 
 
@@ -10,7 +10,7 @@ document.querySelector(".btn-primary").addEventListener("click", function (event
 FN
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+    const emailInput = document.querySelector("#email");
 
 });
 
@@ -18,7 +18,7 @@ document.querySelector("").addEventListener("click", function (event) {
 LN
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+    const emailInput = document.querySelector("#email");
 
 });
 
@@ -26,7 +26,7 @@ document.querySelector("").addEventListener("click", function (event) {
 E
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+   const passwordInput = document.querySelector("#password");
 
 });
 
@@ -34,7 +34,7 @@ document.querySelector("").addEventListener("click", function (event) {
 P
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+  const countrySelect = document.querySelector("#country");
 
 });
 
@@ -42,7 +42,7 @@ document.querySelector("").addEventListener("click", function (event) {
 C
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+    const accountSelect = document.querySelector("#account");
 
 });
 
@@ -50,7 +50,7 @@ document.querySelector("").addEventListener("click", function (event) {
 AT
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+   const aboutTextarea = document.querySelector("#about");
 
 });
 
@@ -58,6 +58,6 @@ document.querySelector("").addEventListener("click", function (event) {
 AY
 document.querySelector("").addEventListener("click", function (event) {
 
-    const firstName = document.querySelector("");
+    const form = document.querySelector("#registrationForm");
 
 });
